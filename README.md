@@ -1,3 +1,11 @@
+# Notice of updated software
+
+Faster implementations of SimpleLocal are available. 
+
+Julia: https://github.com/nveldt/FlowSeed (FlowSeed is faster, more generalized code than SimpleLocal).
+
+C++ implementation with Python front end: https://github.com/kfoynt/LocalGraphClustering.
+
 # SimpleLocal
 Implementation of SimpleLocal for Local Cut Improvement in Graphs
 
